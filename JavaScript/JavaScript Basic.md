@@ -1,0 +1,9 @@
+... 
+<HTML>
+<SCRIPT LANGUAGE = "JAVASCRIPT">
+<!--
+......
+//-->
+</SCRIPT>
+</HTML>
+...
